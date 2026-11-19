@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FlightsApp/FlightsApp.csproj" />
+  <Project Path="SimpleClassLibrary/SimpleClassLibrary.csproj" />
+</Solution>
